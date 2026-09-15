@@ -10,11 +10,10 @@ A survey of AI coding workflows to understand core ideas and common patterns.
 For the meta summary:
 
 ```
-Read the summaries in @summaries/. These are summaries of AI coding workflows as discussed in YouTube videos. Create a meta summary SUMMARY.md that details the following:
+Read ONLY the summaries in @summaries/. These are summaries of AI coding workflows as discussed in YouTube videos. Write the actionable insights in
+INSIGHTS.md with the following:
 
-- Core principles
-- Areas of convergence in workflows
-- Areas of divergence in workflows
-- Recommended workflow
+- A core principles section with a list of bullet points of distilled principles, each as a short paragraph of a few sentences. DO NOT quote any of the summaries. Paraphrase from them.
+- A recommended workflow section with a numbered list of actions, listed in order of their sequence in the workflow, each as a short paragraph of a few sentences. DO NOT quote any of the summaries. Paraphrase from them.
 
 ```
